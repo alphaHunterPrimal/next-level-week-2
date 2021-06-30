@@ -5,7 +5,7 @@ Através dele seria possível tanto cadastrar, quando obter informacões acerca 
 ## Linguagens utilizadas
 - JS
 - Handlebars/HTML
-- Css
+- CSS
 ## Tecnologias
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
