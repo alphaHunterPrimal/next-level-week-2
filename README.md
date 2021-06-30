@@ -1,6 +1,9 @@
 # Sobre o projeto
-Criado durante a minha segunda NLW, que no caso foi a NLW-03, Happy foi o progama feito com o objetivo de facilitar o alcance das pessoas aos orfanatos e a participacão ativa neles. 
+![GitHub](https://img.shields.io/github/license/alphaHunterPrimal/next-level-week-2)
+<p> Criado durante a minha segunda NLW, que no caso foi a NLW-03, Happy foi o progama feito com o objetivo de facilitar o alcance das pessoas aos orfanatos e a participacão ativa neles. 
 Através dele seria possível tanto cadastrar, quando obter informacões acerca de cada orfanato no sistema, inclusive podendo olhar em um mapa a sua localizacão. 
+</p>
+
 ## Preview
 ![Happy](https://github.com/alphaHunterPrimal/next-level-week-2/blob/main/public/images/happy.png)
 ## Linguagens utilizadas
